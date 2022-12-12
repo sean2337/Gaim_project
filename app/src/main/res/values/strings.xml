@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" >Gaim</string>
+    <string name="title_home">Gaim</string>
+    <string name="title_dashboard">Gaim</string>
+    <string name="title_notifications">Gaim</string>
+    <string name="Enter">Enter reference coordinates</string>
+    <string name="Coordinate">Coordinate output</string>
+    <string name="Lat">Lat</string>
+    <string name="XYZ">XYZ</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="Z">Z</string>
+    <string name="LLH">LLH</string>
+    <string name="Lng">Lng</string>
+    <string name="H">H</string>
+    <string name="LatNum">37.480294403739</string>
+    <string name="LngNum">37.480294403739</string>
+    <string name="HNum">37.480294403739</string>
+    <string name="Clear">Clear</string>
+    <string name="Regist">Regist</string>
+    <string name="Error">Error Check</string>
+    <string name="Empty">값을 입력해주세요.</string>
+
+
+</resources>
