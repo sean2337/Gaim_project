@@ -3,7 +3,7 @@
 <img width="817" alt="image" src="https://github.com/sean2337/Gaim_project/assets/100525337/26017fba-2b48-47ac-bedc-2c2c857d3163">
 
 
-1. **GNSS 윈시 데이터 처리 과정**
+1. **GNSS 원시 데이터 처리 과정**
 
 <img width="590" alt="image" src="https://github.com/sean2337/Gaim_project/assets/100525337/96c66950-804b-4ccf-b827-d2890574cc7a">
 
